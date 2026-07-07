@@ -22,7 +22,7 @@ mv file1.txt ./otherlocation/
 #### 4. Rename files
 
 ```
-mv file1.txt file1rename.txt
+mv file2.txt file2rename.txt
 ```
 
 #### 5. Search for specific files.
